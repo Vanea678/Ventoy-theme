@@ -8,7 +8,7 @@
 
 ## Скріншот / Прев'ю
 
-![Preview](preview.png)
+preview.png
 
 ---
 
